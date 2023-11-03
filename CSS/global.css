@@ -11,7 +11,7 @@ body{
    background-attachment: fixed;
     background-repeat: no-repeat;
     height: 100%;
-    
+    z-index: 1;
     background-position: left;
     animation: bg-animation 6s ease-in-out infinite alternate;
     font-family: 'Poppins', sans-serif;
