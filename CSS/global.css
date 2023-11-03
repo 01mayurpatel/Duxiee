@@ -201,6 +201,9 @@ p{
         padding-left: 0;
         padding-right: 0 ;
     }
+    body{
+        animation : none;
+    }
     .big-font{
         font-size: 40px;
         
