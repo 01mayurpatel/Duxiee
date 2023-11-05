@@ -209,6 +209,7 @@ p{
     }
     body{
         animation : none;
+        background-attachment: scroll;
     }
     .big-font{
         font-size: 40px;
