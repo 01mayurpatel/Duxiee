@@ -8,7 +8,7 @@ body{
     
     background: linear-gradient(155deg, rgba(7,7,6,1) 0%, rgba(17,21,13,1) 29%, rgba(27,35,20,1) 38%, rgba(36,52,29,1) 54%, rgba(52,67,37,1) 62%, rgba(66,83,45,1) 74%, rgba(80,102,49,1) 83%, rgba(75,90,47,1) 91%, rgba(75,90,47,1) 100%);
     background-size: 140%;
-   background-attachment: fixed;
+/*    background-attachment: fixed; */
     background-repeat: no-repeat;
     height: 100%;
     z-index: 1;
