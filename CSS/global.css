@@ -19,6 +19,12 @@ body{
     color: white;
 
 }
+.main-body-div{
+    width:100%;
+    padding: 0;
+    
+    margin: 0;
+}
 @keyframes bg-animation {
     0% {background-position:    left;}
     100%{ background-position: right;}
